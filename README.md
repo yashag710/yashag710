@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashag710&label=Profile%20views&color=0e75b6&style=flat" alt="yashag710" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yashag710" target="blank"><img src="https://img.shields.io/twitter/follow/yashag710?logo=twitter&style=for-the-badge" alt="yashag710" /></a> </p>
-
-- 🔭 I’m currently working on [YoutubeSummarizer - A tool that summarizes YouTube videos efficiently using AI.](https://github.com/yashag710/Youtube-summarizer)
+- 🔭 I’m currently working on a tool that summarizes YouTube videos efficiently using AI. [YoutubeSummarizer](https://github.com/yashag710/Youtube-summarizer)
 
 - 🌱 I’m currently learning **Advanced Backend Development (FastAPI, Kafka) DevOps (Docker, CI/CD pipelines, cloud deployments) System Design**
 

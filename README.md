@@ -23,9 +23,6 @@
 - 📫 How to reach me:  
   **yashag1810@gmail.com**
 
-- 📄 Know about my experiences:  
-  https://drive.google.com/file/d/1sGg0Cnk4hpxEd85L9kGWKBDkDz73aX89/view?usp=drive_link
-
 ---
 
 <h3 align="left">Connect with me:</h3>
